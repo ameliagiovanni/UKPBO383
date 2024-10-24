@@ -1,3 +1,4 @@
+//Kelas Induk
 public class Produk {
     private String nama;
     private String merek;
