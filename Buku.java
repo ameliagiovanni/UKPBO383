@@ -1,6 +1,6 @@
 // anak kelas
 public class Buku extends Produk {
-    private String kategori;
+    private String kategori;  //encapsulasi 
 
     // Constructor
     public Buku(String nama, String merek, int harga, String kategori) {
