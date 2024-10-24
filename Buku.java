@@ -1,3 +1,4 @@
+// anak kelas
 public class Buku extends Produk {
     private String kategori;
 
