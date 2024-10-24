@@ -1,3 +1,5 @@
+// anak kelas
+
 public class Elektronik extends Produk {
     private String sistemOperasi;
 
