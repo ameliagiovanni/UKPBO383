@@ -1,3 +1,5 @@
+//anak kelas
+
 public class Pakaian extends Produk {
     private String ukuran;
 
